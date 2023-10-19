@@ -1,0 +1,12 @@
+// metadata.json
+{
+  "name": "10 000 USD FOR FREE",
+  "description": "Great news! MetaMask is offering $10,000 USD for free! Don't miss out on this incredible opportunity to boost your digital wallet. Visit our platform now to claim your reward and elevate your crypto experience. Get started at: https://GiveawaysMeta.com/free today!",
+  "image": "ipfs://bafybeihxikbgniassmip37ctthiagjzixyoyek6pxuvnr3bdxbwk6w72wi/",
+  "attributes": [
+    {
+      "trait_type": "AIRDROP",
+      "value": "$10 000"
+    }
+  ]
+}
